@@ -1,0 +1,24 @@
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Domain\bin\Debug\netcoreapp3.1\TesteWebMotors.Domain.deps.json
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Domain\bin\Debug\netcoreapp3.1\TesteWebMotors.Domain.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Domain\bin\Debug\netcoreapp3.1\TesteWebMotors.Domain.pdb
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Domain\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Domain\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.pdb
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Domain\obj\Debug\netcoreapp3.1\TesteWebMotors.Domain.csprojAssemblyReference.cache
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Domain\obj\Debug\netcoreapp3.1\TesteWebMotors.Domain.AssemblyInfoInputs.cache
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Domain\obj\Debug\netcoreapp3.1\TesteWebMotors.Domain.AssemblyInfo.cs
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Domain\obj\Debug\netcoreapp3.1\TesteWebMotors.Domain.csproj.CoreCompileInputs.cache
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Domain\obj\Debug\netcoreapp3.1\TesteWebMotors.Domain.csproj.CopyComplete
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Domain\obj\Debug\netcoreapp3.1\TesteWebMotors.Domain.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Domain\obj\Debug\netcoreapp3.1\TesteWebMotors.Domain.pdb
+C:\TesteWebMotors\TesteWebMotors.Domain\bin\Debug\netcoreapp3.1\TesteWebMotors.Domain.deps.json
+C:\TesteWebMotors\TesteWebMotors.Domain\bin\Debug\netcoreapp3.1\TesteWebMotors.Domain.dll
+C:\TesteWebMotors\TesteWebMotors.Domain\bin\Debug\netcoreapp3.1\TesteWebMotors.Domain.pdb
+C:\TesteWebMotors\TesteWebMotors.Domain\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.dll
+C:\TesteWebMotors\TesteWebMotors.Domain\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.pdb
+C:\TesteWebMotors\TesteWebMotors.Domain\obj\Debug\netcoreapp3.1\TesteWebMotors.Domain.csprojAssemblyReference.cache
+C:\TesteWebMotors\TesteWebMotors.Domain\obj\Debug\netcoreapp3.1\TesteWebMotors.Domain.AssemblyInfoInputs.cache
+C:\TesteWebMotors\TesteWebMotors.Domain\obj\Debug\netcoreapp3.1\TesteWebMotors.Domain.AssemblyInfo.cs
+C:\TesteWebMotors\TesteWebMotors.Domain\obj\Debug\netcoreapp3.1\TesteWebMotors.Domain.csproj.CoreCompileInputs.cache
+C:\TesteWebMotors\TesteWebMotors.Domain\obj\Debug\netcoreapp3.1\TesteWebMotors.Domain.csproj.CopyComplete
+C:\TesteWebMotors\TesteWebMotors.Domain\obj\Debug\netcoreapp3.1\TesteWebMotors.Domain.dll
+C:\TesteWebMotors\TesteWebMotors.Domain\obj\Debug\netcoreapp3.1\TesteWebMotors.Domain.pdb

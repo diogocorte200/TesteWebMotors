@@ -1,0 +1,150 @@
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\appsettings.json
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\TesteWebMotors.exe
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\TesteWebMotors.deps.json
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\TesteWebMotors.runtimeconfig.json
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\TesteWebMotors.runtimeconfig.dev.json
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\TesteWebMotors.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\TesteWebMotors.pdb
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Hangfire.AspNetCore.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Hangfire.Core.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Hangfire.SqlServer.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\es\Hangfire.Core.resources.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\TesteWebMotors.Domain.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\TesteWebMotors.Domain.pdb
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.pdb
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\obj\Debug\netcoreapp3.1\TesteWebMotors.csprojAssemblyReference.cache
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\obj\Debug\netcoreapp3.1\TesteWebMotors.AssemblyInfoInputs.cache
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\obj\Debug\netcoreapp3.1\TesteWebMotors.AssemblyInfo.cs
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\obj\Debug\netcoreapp3.1\TesteWebMotors.csproj.CoreCompileInputs.cache
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\obj\Debug\netcoreapp3.1\TesteWebMotors.MvcApplicationPartsAssemblyInfo.cs
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\obj\Debug\netcoreapp3.1\TesteWebMotors.MvcApplicationPartsAssemblyInfo.cache
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\obj\Debug\netcoreapp3.1\staticwebassets\TesteWebMotors.StaticWebAssets.Manifest.cache
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\obj\Debug\netcoreapp3.1\staticwebassets\TesteWebMotors.StaticWebAssets.xml
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\obj\Debug\netcoreapp3.1\scopedcss\bundle\TesteWebMotors.styles.css
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\obj\Debug\netcoreapp3.1\TesteWebMotors.RazorTargetAssemblyInfo.cache
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\obj\Debug\netcoreapp3.1\TesteWebMotors.csproj.CopyComplete
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\obj\Debug\netcoreapp3.1\TesteWebMotors.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\obj\Debug\netcoreapp3.1\TesteWebMotors.pdb
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG\obj\Debug\netcoreapp3.1\TesteWebMotors.genruntimeconfig.cache
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\appsettings.json
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\TesteWebMotors.exe
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\TesteWebMotors.deps.json
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\TesteWebMotors.runtimeconfig.json
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\TesteWebMotors.runtimeconfig.dev.json
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\TesteWebMotors.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\TesteWebMotors.pdb
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Hangfire.AspNetCore.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Hangfire.Core.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Hangfire.SqlServer.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\es\Hangfire.Core.resources.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\TesteWebMotors.Client.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\TesteWebMotors.Domain.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.dll
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\TesteWebMotors.Client.pdb
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\TesteWebMotors.Domain.pdb
+C:\TesteWebMotors\TesteWebMotors\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.pdb
+C:\TesteWebMotors\TesteWebMotors\obj\Debug\netcoreapp3.1\TesteWebMotors.csprojAssemblyReference.cache
+C:\TesteWebMotors\TesteWebMotors\obj\Debug\netcoreapp3.1\TesteWebMotors.AssemblyInfoInputs.cache
+C:\TesteWebMotors\TesteWebMotors\obj\Debug\netcoreapp3.1\TesteWebMotors.AssemblyInfo.cs
+C:\TesteWebMotors\TesteWebMotors\obj\Debug\netcoreapp3.1\TesteWebMotors.csproj.CoreCompileInputs.cache
+C:\TesteWebMotors\TesteWebMotors\obj\Debug\netcoreapp3.1\TesteWebMotors.MvcApplicationPartsAssemblyInfo.cs
+C:\TesteWebMotors\TesteWebMotors\obj\Debug\netcoreapp3.1\TesteWebMotors.MvcApplicationPartsAssemblyInfo.cache
+C:\TesteWebMotors\TesteWebMotors\obj\Debug\netcoreapp3.1\staticwebassets\TesteWebMotors.StaticWebAssets.Manifest.cache
+C:\TesteWebMotors\TesteWebMotors\obj\Debug\netcoreapp3.1\staticwebassets\TesteWebMotors.StaticWebAssets.xml
+C:\TesteWebMotors\TesteWebMotors\obj\Debug\netcoreapp3.1\scopedcss\bundle\TesteWebMotors.styles.css
+C:\TesteWebMotors\TesteWebMotors\obj\Debug\netcoreapp3.1\TesteWebMotors.RazorTargetAssemblyInfo.cache
+C:\TesteWebMotors\TesteWebMotors\obj\Debug\netcoreapp3.1\TesteWebMotors.csproj.CopyComplete
+C:\TesteWebMotors\TesteWebMotors\obj\Debug\netcoreapp3.1\TesteWebMotors.dll
+C:\TesteWebMotors\TesteWebMotors\obj\Debug\netcoreapp3.1\TesteWebMotors.pdb
+C:\TesteWebMotors\TesteWebMotors\obj\Debug\netcoreapp3.1\TesteWebMotors.genruntimeconfig.cache

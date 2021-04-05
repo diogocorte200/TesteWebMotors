@@ -1,0 +1,23 @@
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Entity\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.deps.json
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Entity\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.runtimeconfig.json
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Entity\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.runtimeconfig.dev.json
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Entity\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Entity\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.pdb
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteWebMotors.Entity.AssemblyInfoInputs.cache
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteWebMotors.Entity.AssemblyInfo.cs
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteWebMotors.Entity.csproj.CoreCompileInputs.cache
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteWebMotors.Entity.dll
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteWebMotors.Entity.pdb
+E:\versionado\Francisco\WebMotors\Nova pasta\TesteITG.Entity\obj\Debug\netcoreapp3.1\TesteWebMotors.Entity.genruntimeconfig.cache
+C:\TesteWebMotors\TesteWebMotors.Entity\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.deps.json
+C:\TesteWebMotors\TesteWebMotors.Entity\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.runtimeconfig.json
+C:\TesteWebMotors\TesteWebMotors.Entity\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.runtimeconfig.dev.json
+C:\TesteWebMotors\TesteWebMotors.Entity\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.dll
+C:\TesteWebMotors\TesteWebMotors.Entity\bin\Debug\netcoreapp3.1\TesteWebMotors.Entity.pdb
+C:\TesteWebMotors\TesteWebMotors.Entity\obj\Debug\netcoreapp3.1\TesteWebMotors.Entity.csprojAssemblyReference.cache
+C:\TesteWebMotors\TesteWebMotors.Entity\obj\Debug\netcoreapp3.1\TesteWebMotors.Entity.AssemblyInfoInputs.cache
+C:\TesteWebMotors\TesteWebMotors.Entity\obj\Debug\netcoreapp3.1\TesteWebMotors.Entity.AssemblyInfo.cs
+C:\TesteWebMotors\TesteWebMotors.Entity\obj\Debug\netcoreapp3.1\TesteWebMotors.Entity.csproj.CoreCompileInputs.cache
+C:\TesteWebMotors\TesteWebMotors.Entity\obj\Debug\netcoreapp3.1\TesteWebMotors.Entity.dll
+C:\TesteWebMotors\TesteWebMotors.Entity\obj\Debug\netcoreapp3.1\TesteWebMotors.Entity.pdb
+C:\TesteWebMotors\TesteWebMotors.Entity\obj\Debug\netcoreapp3.1\TesteWebMotors.Entity.genruntimeconfig.cache

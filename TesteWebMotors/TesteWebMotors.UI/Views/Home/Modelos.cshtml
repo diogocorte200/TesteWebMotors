@@ -1,0 +1,9 @@
+﻿@model TesteWebMotors.Domain.Aggregate.WebMotors.Modelo
+<option value="">--Selecione Modelo--</option>
+@if(ViewBag.Modelos!=null)
+{
+    foreach(var v in ViewBag.Modelos)
+                {
+                    <option value="@v.ID">@v.Name</option>
+                }
+}

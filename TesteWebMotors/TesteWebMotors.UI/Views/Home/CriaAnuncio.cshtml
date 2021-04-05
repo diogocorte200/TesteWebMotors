@@ -1,0 +1,142 @@
+﻿@model TesteWebMotors.Domain.Domain.AnuncionWebMotorsModel
+@{
+    ViewBag.Title = "Cria Anuncio";
+}
+<h2>Cria Anuncio</h2>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+@using (Html.BeginForm("Create","Home"))
+{
+    @Html.ValidationSummary(true)
+<fieldset>
+    <legend>Anuncio Model</legend>
+
+    <div class="editor-label">@Html.LabelFor(model => model.Marca)</div>
+    <div class="editor-field">
+        @*@Html.EditorFor(model => model.Marca)*@
+        @*@Html.DropDownList("Marcas", String.Empty)*@
+
+        @Html.DropDownList("Marca", (IEnumerable<SelectListItem>)ViewBag.Marcas, "", new { @class = "form-control" })
+
+        @*@Html.ValidationMessageFor(model => model.Marca)*@
+    </div>
+
+    <div class="editor-label">@Html.LabelFor(model => model.Modelo)</div>
+    <div class="editor-field">
+        @Html.DropDownList("Modelo", new SelectList(""), "-- Selecione Modelo --", new { @class = "form-control" })
+        @*@Html.DropDownList(x=>x.Id, new SelectList("") ,"-- Selecione Modelo --", new { @class = "form-control" })*@
+        @*@Html.EditorFor(model => model.Modelo)
+            @Html.ValidationMessageFor(model => model.Modelo)*@
+    </div>
+
+    <div class="editor-label">@Html.LabelFor(model => model.Versao)</div>
+    <div class="editor-field">
+        @Html.DropDownList("Versao", new SelectList(""), "-- Selecione Versão --", new { @class = "form-control" })
+        @*@Html.EditorFor(model => model.Versao)
+            @Html.ValidationMessageFor(model => model.Versao)*@
+    </div>
+
+    <div class="editor-label">@Html.LabelFor(model => model.Ano)</div>
+    <div class="editor-field">
+        @Html.EditorFor(model => model.Ano)
+        @Html.ValidationMessageFor(model => model.Ano)
+    </div>
+
+    <div class="editor-label">@Html.LabelFor(model => model.Quilometragem)</div>
+    <div class="editor-field">
+        @Html.EditorFor(model => model.Quilometragem)
+        @Html.ValidationMessageFor(model => model.Quilometragem)
+    </div>
+
+    <div class="editor-label">@Html.LabelFor(model => model.Observacao)</div>
+    <div class="editor-field">
+        @Html.EditorFor(model => model.Observacao)
+        @Html.ValidationMessageFor(model => model.Observacao)
+    </div>
+
+    <p>
+        <input type="submit" value="Create" />
+    </p>
+</fieldset>
+}
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+ $(function(){
+
+     $("#Marca").change(function() {
+
+            var t = $(this).val();
+
+            if (t !== "") {
+                $.post("@Url.Action("GetModels", "Home")?val=" + t, function (res) {
+                    $("#Modelo").empty();
+                    $("#Versao").empty();
+                    $("#Modelo").append(res);
+                    //if (res.Success === "true") {
+                    //    debugger
+                    //  //enable the text boxes and set the value
+                    //    alert("Fucnionou!");
+                    //    $("#Modelos").empty();
+                    //    /$("#Modelos").append(res);
+                    //    //$("#Width").prop('disabled', false).val(res.Data.Width);
+                    //    //$("#Height").prop('disabled', false).val(res.Data.Height);
+
+                    //} else {
+                    //    alert(res);
+                    //    alert("Error getting data!");
+                    //}
+                });
+            } else {
+                //Let's clear the values and disable :)
+                alert("ELSESEEE Fucnionou!");
+                /*$("input.editableItems").val('').prop('disabled', true);*/
+            }
+
+     });
+     $("#Modelo").change(function() {
+
+            var t = $(this).val();
+
+            if (t !== "") {
+                $.post("@Url.Action("GetVersoes", "Home")?val=" + t, function (res) {
+                    $("#Versao").empty();
+                    $("#Versao").append(res);
+                    //if (res.Success === "true") {
+                    //    debugger
+                    //  //enable the text boxes and set the value
+                    //    alert("Fucnionou!");
+                    //    $("#Modelos").empty();
+                    //    /$("#Modelos").append(res);
+                    //    //$("#Width").prop('disabled', false).val(res.Data.Width);
+                    //    //$("#Height").prop('disabled', false).val(res.Data.Height);
+
+                    //} else {
+                    //    alert(res);
+                    //    alert("Error getting data!");
+                    //}
+                });
+            } else {
+                //Let's clear the values and disable :)
+                alert("ELSESEEE Fucnionou!");
+                /*$("input.editableItems").val('').prop('disabled', true);*/
+            }
+
+        });
+ });
+
+</script>
+
+
+
+@*@section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }*@
